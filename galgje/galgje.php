@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Galgje door Seb en Roy</title>
+    <title>Galgje</title>
     <link rel="stylesheet" type="CSS/galgje.css">
 </head>
 <body>
